@@ -1,0 +1,21 @@
+body{background-image: url("https://cdn.pixabay.com/photo/2020/04/27/16/02/roses-5100472_960_720.png");}
+
+
+.header {
+  border-color: #8563a3;
+  border-style: double;
+  border-width:10px;
+  padding: 5px;
+  text-align: center;
+background-color: #c72999;
+background-color: #e05fba;
+background-image: linear-gradient(117deg, #e05fba 33%, #c159ba 91%);
+
+color: #5B2B87;
+}
+h1{font-family: 'Cormorant Garamond', serif;
+  font-size: 65px;
+}
+p{font-family: 'Carattere', cursive;
+  font-size: 40px;
+}
